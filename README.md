@@ -1,5 +1,5 @@
 Olá👋 eu me chamo Yuri Nogueira Sampaio.
-Sou fascinado em aprender, busco melhorar sempre e aprender novas habilidades
+Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
 
 
 - 🌱 atualmente estou aprendendo programação mobile dart/Flutter
