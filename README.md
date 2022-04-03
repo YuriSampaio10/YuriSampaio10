@@ -30,4 +30,4 @@ Olá👋 eu me chamo Yuri Nogueira Sampaio
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriSampaio10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/YuriSampaio10/YuriSampaio10/blob/output/github-contribution-grid-snake.svg)
+
