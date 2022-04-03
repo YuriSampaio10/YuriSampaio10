@@ -8,7 +8,7 @@ Olá👋 eu me chamo Yuri Nogueira Sampaio
 
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Yuri-dart" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416438-36cfda9b-2a99-4795-9daa-252cd1d579fe.svg">
+<img align="center" alt="Yuri-dart" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161417312-400c5126-9cc8-41e8-a1ea-cb7461a8fa4f.svg">
   <img align="center" alt="Yuri-flutter" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416406-160edc91-cee1-46c4-bff2-b9c112834d71.svg">
   <img align="center" alt="Yuri-AndroidStudio" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416469-fd3c6355-5fcc-4aef-a720-2edbb6feca85.svg">
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +17,7 @@ Olá👋 eu me chamo Yuri Nogueira Sampaio
   <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 ##
-  
+
   <a href = "mailto:contato@sampaio.yuri31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-nogueira-sampaio-291a841a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
