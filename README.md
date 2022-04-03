@@ -1,16 +1,33 @@
-### Hi there 👋
+Olá👋 eu me chamo Yuri Nogueira Sampaio
+  Sou fascinado em aprender, busco melhorar sempre e aprender novas habilidades
 
-<!--
-**YuriSampaio10/YuriSampaio10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 atualmente estou aprendendo programação mobile dart/Flutter
+- 💼 Estou em busca do meu primeiro emprego na área de desenvolvimento de sistemas
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Yuri-dart" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416438-36cfda9b-2a99-4795-9daa-252cd1d579fe.svg">
+  <img align="center" alt="Yuri-flutter" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416406-160edc91-cee1-46c4-bff2-b9c112834d71.svg">
+  <img align="center" alt="Yuri-AndroidStudio" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416469-fd3c6355-5fcc-4aef-a720-2edbb6feca85.svg">
+  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yuri-vsCode" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416349-d1107849-44f7-46e2-95cb-9c16c8915a37.svg">
+  <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+##
+  
+  <a href = "mailto:contato@sampaio.yuri31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yuri-nogueira-sampaio-291a841a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+##
+
+
+<a href="https://github.com/YuriSampaio10">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSampaio10&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriSampaio10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/YuriSampaio10/YuriSampaio10/blob/output/github-contribution-grid-snake.svg)
