@@ -2,8 +2,8 @@ Olá👋 eu me chamo Yuri Nogueira Sampaio.
 Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
 
 
-- 🌱 Atualmente estou aprendendo programação mobile dart/Flutter
-- 💼 Estou em busca do meu primeiro emprego na área de desenvolvimento de sistemas
+- 🌱 Atualmente estou estudando desenvolvimento de sistemas 
+- 💼 Estou em busca do meu primeiro emprego na área de
 ##
 
 </div>
