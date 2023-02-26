@@ -3,7 +3,7 @@ Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
 
 
 - 🌱 Atualmente estou estudando desenvolvimento de sistemas 
-- 💼 Estou em busca do meu primeiro emprego na área de
+- 💼 Estou em busca do meu primeiro emprego na área de TI
 ##
 
 </div>
