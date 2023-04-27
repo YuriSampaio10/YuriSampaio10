@@ -24,9 +24,11 @@ Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
  <img align="center" alt="Yuri-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   
 ##
-
+<h3>Contatos<h3>
   <a href = "sampaio.yuri31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/yuri-nogueira-sampaio-291a841a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+<h3>badges<h3>
   <a href = "https://www.credly.com/users/yuri-sampaio/badges"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
   <a href = "https://www.cloudskillsboost.google/public_profiles/5ee90fa6-dfa5-4c19-8549-1acfda24bb55"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 
