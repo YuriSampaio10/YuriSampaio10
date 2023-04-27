@@ -19,7 +19,7 @@ Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
 <img align="center" alt="Yuri-GitHub" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/166134355-af824e59-29f2-47a1-af7b-1d8dd8afb152.svg">
 <img align="center" alt="Yuri-Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 
-<img align="center" alt="Yuri-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+<img align="center" alt="Yuri-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 
 ##
 
