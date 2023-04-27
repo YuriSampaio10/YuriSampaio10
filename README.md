@@ -24,7 +24,7 @@ Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
 
   <a href = "sampaio.yuri31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-nogueira-sampaio-291a841a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "https://www.credly.com/users/yuri-sampaio/badges"><img src="https://img.shields.io/badge/-Credly-orange-%230077B5?style=for-the-badge&logo=credly&logo" target="_blank"></a>
+  <a href = "https://www.credly.com/users/yuri-sampaio/badges"><img src="https://img.shields.io/badge/-Credly-orange-style=for-the-badge&logo=credly&logo" target="_blank"></a>
 </div>
 
 ##
