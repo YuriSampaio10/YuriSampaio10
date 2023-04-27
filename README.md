@@ -9,18 +9,15 @@ Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
 </div>
 
 <h3>Habilidades<h3>
-<div style="display: inline"><br>
-<img align="center" alt="Yuri-dart" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161417312-400c5126-9cc8-41e8-a1ea-cb7461a8fa4f.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Yuri-dart" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161417312-400c5126-9cc8-41e8-a1ea-cb7461a8fa4f.svg">
   <img align="center" alt="Yuri-flutter" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416406-160edc91-cee1-46c4-bff2-b9c112834d71.svg">
   <img align="center" alt="Yuri-AndroidStudio" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416469-fd3c6355-5fcc-4aef-a720-2edbb6feca85.svg">
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yuri-js" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161417408-0adf28d3-5728-4f94-8483-371ebca760d7.svg">
   <img align="center" alt="Yuri-vsCode" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416349-d1107849-44f7-46e2-95cb-9c16c8915a37.svg">  
- 
-   
-
-
+<br>
   <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="Yuri-GitHub" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/166134355-af824e59-29f2-47a1-af7b-1d8dd8afb152.svg">
  <img align="center" alt="Yuri-Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
