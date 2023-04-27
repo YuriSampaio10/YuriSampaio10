@@ -18,7 +18,7 @@ Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
   <img align="center" alt="Yuri-js" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161417408-0adf28d3-5728-4f94-8483-371ebca760d7.svg">
   <img align="center" alt="Yuri-vsCode" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416349-d1107849-44f7-46e2-95cb-9c16c8915a37.svg">  
  
-   ##
+   
 
 
   <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
