@@ -16,11 +16,9 @@ Sou fascinado em aprender, busco melhorar sempre e adquirir novas habilidades
   <img align="center" alt="Yuri-js" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161417408-0adf28d3-5728-4f94-8483-371ebca760d7.svg">
   <img align="center" alt="Yuri-vsCode" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/161416349-d1107849-44f7-46e2-95cb-9c16c8915a37.svg">
   <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Yuri-GitHub" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/166134355-af824e59-29f2-47a1-af7b-1d8dd8afb152.svg">
-<img align="center" alt="Yuri-Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-
-<img align="center" alt="Yuri-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-
+ <img align="center" alt="Yuri-GitHub" height="30" width="40" src="https://user-images.githubusercontent.com/102839085/166134355-af824e59-29f2-47a1-af7b-1d8dd8afb152.svg">
+ <img align="center" alt="Yuri-Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+ <img align="center" alt="Yuri-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 ##
 
   <a href = "sampaio.yuri31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
